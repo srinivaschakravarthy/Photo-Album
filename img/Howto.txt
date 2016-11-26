@@ -1,0 +1,2 @@
+Add images here. Use "img"+x+".jpg" notation to name them.
+Example: img21.jpg
